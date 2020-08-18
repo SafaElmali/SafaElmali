@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**SafaElmali/SafaElmali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alt Text](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
 
-Here are some ideas to get you started:
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
