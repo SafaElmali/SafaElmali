@@ -5,7 +5,11 @@
 </p>
 
 ### Spotify Now Playing 🎧
+<div align="center">
+  
 [![Spotify](https://spotify-now-playing-grvctczyq.vercel.app/api/spotify)](https://open.spotify.com/user/8va6cs1o44tff5ww9m12sh2ao)
+
+</div>
 
 
 - 🌱 &nbsp; I’m currently learning **GraphQL, MongoDB, Apollo Server**
