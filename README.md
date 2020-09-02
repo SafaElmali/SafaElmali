@@ -1,12 +1,15 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Safa</h1>
-<h3 align="center">A passionate Frontend (Curious For Backend) Developer 👨‍💻 || Gamer 🎮 || Blogger 📝 </h3>
+<h3 align="center">A passionate Frontend Developer 👨‍💻 || Gamer 🎮 || Blogger 📝 </h3>
 
 - 🌱 I’m currently learning **GraphQL, MongoDB, Apollo Server**
 
 - 📝 I regulary write articles on [Medium](https://medium.com/@tsafaelmali)
 
-- 📫 You can reach me [![Twitter: SafaElmali](https://img.shields.io/twitter/url?label=Safa%20Elmali&style=social&url=https%3A%2F%2Ftwitter.com%2FSafaElmali)](https://twitter.com/SafaElmali) [![Linkedin: SafaElmali](https://img.shields.io/badge/-T.Safa%20Elmali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsafaelmali/)](https://www.linkedin.com/in/tsafaelmali/)
+### 📫 You can reach me 
 
+[![Linkedin: SafaElmali](https://img.shields.io/badge/-T.Safa%20Elmali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsafaelmali/)](https://www.linkedin.com/in/tsafaelmali/)
+[![Twitter: SafaElmali](https://img.shields.io/twitter/url?label=T.Safa%20Elmali&style=social&url=https%3A%2F%2Ftwitter.com%2FSafaElmali)](https://twitter.com/SafaElmali) 
+[![Gmail Badge](https://img.shields.io/badge/-T.Safaelmali-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tsafaelmali@gmail.com)](mailto:tsafaelmali@gmail.com)
 
 ### 📝 Latest Blog Posts 👇
 <!-- BLOG-POST-LIST:START -->
@@ -39,6 +42,7 @@
 <a href="https://twitter.com/safaelmali" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="https://linkedin.com/in/tsafaelmali" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://instagram.com/safaelmali" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-<a href="https://medium.com/@tsafaelmali" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/safaelmali" target="blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+<a href="https://medium.com/@tsafaelmali" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+<a href="https://dev.to/safaelmali" target="blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+<a href="https://safaelmali.com/" target="blank"><img src="https://img.shields.io/badge/-WEBSITE-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://safaelmali.com/" height=25></a>
 </p>
-
