@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GraphQL, MongoDB, Apollo Server**
 
-- 📝 I regulary write articles on [https://medium.com/@tsafaelmali](https://medium.com/@tsafaelmali)
+- 📝 I regulary write articles on [Medium](https://medium.com/@tsafaelmali)
 
 - 📫 How to reach me <a href="https://twitter.com/safaelmali" target="blank">@SafaElmali</a>
 
