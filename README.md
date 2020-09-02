@@ -21,7 +21,7 @@
 
 [![Linkedin: SafaElmali](https://img.shields.io/badge/-T.Safa%20Elmali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsafaelmali/)](https://www.linkedin.com/in/tsafaelmali/)
 [![Twitter: SafaElmali](https://img.shields.io/twitter/url?label=T.Safa%20Elmali&style=social&url=https%3A%2F%2Ftwitter.com%2FSafaElmali)](https://twitter.com/SafaElmali) 
-[![Gmail Badge](https://img.shields.io/badge/-T.Safaelmali-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tsafaelmali@gmail.com)](mailto:tsafaelmali@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-T.Safa%20Elmali-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tsafaelmali@gmail.com)](mailto:tsafaelmali@gmail.com)
 
 ### 📝 &nbsp; Latest Blog Posts &nbsp; 👇
 <!-- BLOG-POST-LIST:START -->
