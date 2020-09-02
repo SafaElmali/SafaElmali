@@ -34,7 +34,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safaelmali&show_icons=true" alt="safaelmali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safaelmali&show_icons=true&theme=gotham" alt="safaelmali" /></p>
 
 ---
 
