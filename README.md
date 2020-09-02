@@ -4,6 +4,10 @@
 <img height="100" src="https://media2.giphy.com/media/13V60VgE2ED7oc/giphy.gif" />
 </p>
 
+### Spotify Now Playing 🎧
+[![Spotify](https://spotify-now-playing-grvctczyq.vercel.app/api/spotify)](https://open.spotify.com/user/8va6cs1o44tff5ww9m12sh2ao)
+
+
 - 🌱 &nbsp; I’m currently learning **GraphQL, MongoDB, Apollo Server**
 
 - 📝 &nbsp; I regulary write articles on [Medium](https://medium.com/@tsafaelmali)
