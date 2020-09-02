@@ -4,19 +4,19 @@
 <img height="100" src="https://media2.giphy.com/media/13V60VgE2ED7oc/giphy.gif" />
 </p>
 
-- 🌱 I’m currently learning **GraphQL, MongoDB, Apollo Server**
+- 🌱 &nbsp; I’m currently learning **GraphQL, MongoDB, Apollo Server**
 
-- 📝 I regulary write articles on [Medium](https://medium.com/@tsafaelmali)
+- 📝 &nbsp; I regulary write articles on [Medium](https://medium.com/@tsafaelmali)
 
-- 🤓 Curious to learn Backend Development 💻
+- 🤓 &nbsp; Curious to learn Backend Development 💻
 
-### 📫 You can reach me 
+### 📫 &nbsp; You can reach me 
 
 [![Linkedin: SafaElmali](https://img.shields.io/badge/-T.Safa%20Elmali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsafaelmali/)](https://www.linkedin.com/in/tsafaelmali/)
 [![Twitter: SafaElmali](https://img.shields.io/twitter/url?label=T.Safa%20Elmali&style=social&url=https%3A%2F%2Ftwitter.com%2FSafaElmali)](https://twitter.com/SafaElmali) 
 [![Gmail Badge](https://img.shields.io/badge/-T.Safaelmali-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tsafaelmali@gmail.com)](mailto:tsafaelmali@gmail.com)
 
-### 📝 Latest Blog Posts 👇
+### 📝 &nbsp; Latest Blog Posts &nbsp; 👇
 <!-- BLOG-POST-LIST:START -->
 - [React — Memoization Nedir ? React’ta Nasıl Kullanılır ?](https://medium.com/@tsafaelmali/react-memoization-nedir-reactta-nas%C4%B1l-kullan%C4%B1l%C4%B1r-453035a3630f?source=rss-ca87a446d740------2)
 - [Binary Search Tree Nedir?](https://medium.com/@tsafaelmali/binary-search-tree-nedir-2e6fb0621d9?source=rss-ca87a446d740------2)
@@ -49,7 +49,7 @@
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safaelmali&show_icons=true&theme=gotham" alt="safaelmali" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safaelmali&show_icons=true&theme=tokyonight" alt="safaelmali" /></p>
 
 </details>
 
