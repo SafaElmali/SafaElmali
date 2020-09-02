@@ -7,10 +7,11 @@ jobs:
         name: Update this repo's README with latest blog posts
         runs - on: ubuntu - latest
         steps: 
-            - uses: actions / checkout@v2
-            - uses: SafaElmali/blog-post-workflow@master
-              with: 
-                max_post_count: "3",
-                feed_list: "https://medium.com/feed/@tsafaelmali"
-                comment_tag_name: "MEDIUM"
-                commit_message: "Updated readme with the latest medium blog posts"
+        - uses: actions / checkout@v2
+        - uses: SafaElmali/blog-post-workflow@master
+          with: 
+            comment_tag_name: "MEDIUM"
+            commit_message: "Updated readme with the latest medium blog posts"
+            max_post_count: "3",
+            feed_list: "https://medium.com/feed/@tsafaelmali"
+        
