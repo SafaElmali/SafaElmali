@@ -35,12 +35,10 @@
 
 ---
 
-
-<p align="center">
-<a href="https://dev.to/safaelmali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="safaelmali" height="30" width="30" /></a>
-<a href="https://twitter.com/safaelmali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="safaelmali" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/tsafaelmali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tsafaelmali" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/6464963" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6464963" height="30" width="30" /></a>
-<a href="https://instagram.com/safaelmali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="safaelmali" height="30" width="30" /></a>
-<a href="https://medium.com/@tsafaelmali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tsafaelmali" height="30" width="30" /></a>
+<p>
+<a href="https://twitter.com/safaelmali" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://linkedin.com/in/tsafaelmali" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://instagram.com/safaelmali" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<a href="https://medium.com/@tsafaelmali" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/safaelmali" target="blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 </p>
+
