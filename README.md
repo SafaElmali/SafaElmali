@@ -1,6 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Safa</h1>
 <h3 align="center">A passionate Frontend Developer 👨‍💻 || Gamer 🎮 || Blogger 📝 </h3>
 
+<p align="center"> 
+<img height="100" src="https://media2.giphy.com/media/13V60VgE2ED7oc/giphy.gif" />
+</p>
+
 - 🌱 I’m currently learning **GraphQL, MongoDB, Apollo Server**
 
 - 📝 I regulary write articles on [Medium](https://medium.com/@tsafaelmali)
@@ -50,4 +54,8 @@
 <a href="https://medium.com/@tsafaelmali" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 <a href="https://dev.to/safaelmali" target="blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 <a href="https://safaelmali.com/" target="blank"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://safaelmali.com/" height=25></a>
+
 </p>
+
+
+
