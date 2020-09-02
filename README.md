@@ -35,7 +35,7 @@
 
 ---
 
-<p>
+<p align="center">
 <a href="https://twitter.com/safaelmali" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="https://linkedin.com/in/tsafaelmali" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://instagram.com/safaelmali" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
