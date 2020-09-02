@@ -17,6 +17,10 @@
 
 ### 📝 Latest Blog Posts 👇
 <!-- BLOG-POST-LIST:START -->
+- [React — Memoization Nedir ? React’ta Nasıl Kullanılır ?](https://medium.com/@tsafaelmali/react-memoization-nedir-reactta-nas%C4%B1l-kullan%C4%B1l%C4%B1r-453035a3630f?source=rss-ca87a446d740------2)
+- [Binary Search Tree Nedir?](https://medium.com/@tsafaelmali/binary-search-tree-nedir-2e6fb0621d9?source=rss-ca87a446d740------2)
+- [CSS — Transition Nedir ?](https://medium.com/kodcular/css-transition-nedir-b6139dd9b37c?source=rss-ca87a446d740------2)
+- [Deno İle Mini REST API Uygulaması Nasıl Yazılır ?](https://medium.com/kodcular/deno-i%CC%87le-mini-rest-api-uygulamas%C4%B1-nas%C4%B1l-yaz%C4%B1l%C4%B1r-1a7116b411b6?source=rss-ca87a446d740------2)
 <!-- BLOG-POST-LIST:END -->
 
 
