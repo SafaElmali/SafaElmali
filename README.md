@@ -11,7 +11,7 @@
 
 </div>
 
-- 🌱 &nbsp; I’m currently learning **GraphQL, MongoDB, Apollo Server**
+- 🌱 &nbsp; I’m currently learning **GraphQL, MongoDB, Apollo Server, React Context API**
 
 - 📝 &nbsp; I regulary write articles on [Medium](https://medium.com/@tsafaelmali)
 
