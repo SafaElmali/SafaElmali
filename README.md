@@ -25,10 +25,10 @@
 
 ### 📝 &nbsp; Latest Blog Posts &nbsp; 👇
 <!-- BLOG-POST-LIST:START -->
+- [CSS — Attribute Selector Nedir ?Türleri Nelerdir ?](https://medium.com/@tsafaelmali/css-attribute-selector-nedir-t%C3%BCrleri-nelerdir-ed35fa6bc370?source=rss-ca87a446d740------2)
 - [React — Context API Nedir? Nasıl Kullanılır ?](https://medium.com/@tsafaelmali/react-context-api-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-7000b530ebd0?source=rss-ca87a446d740------2)
 - [React — Memoization Nedir ? React’ta Nasıl Kullanılır ?](https://medium.com/@tsafaelmali/react-memoization-nedir-reactta-nas%C4%B1l-kullan%C4%B1l%C4%B1r-453035a3630f?source=rss-ca87a446d740------2)
 - [Binary Search Tree Nedir?](https://medium.com/@tsafaelmali/binary-search-tree-nedir-2e6fb0621d9?source=rss-ca87a446d740------2)
-- [CSS — Transition Nedir ?](https://medium.com/kodcular/css-transition-nedir-b6139dd9b37c?source=rss-ca87a446d740------2)
 <!-- BLOG-POST-LIST:END -->
 
 
