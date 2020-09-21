@@ -28,7 +28,7 @@
 [![Twitter: SafaElmali](https://img.shields.io/twitter/url?label=T.Safa%20Elmali&style=social&url=https%3A%2F%2Ftwitter.com%2FSafaElmali)](https://twitter.com/SafaElmali) 
 [![Gmail Badge](https://img.shields.io/badge/-T.Safa%20Elmali-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tsafaelmali@gmail.com)](mailto:tsafaelmali@gmail.com)
 
-### 📝 &nbsp; Latest Blog Posts &nbsp; 👇
+### 📝 &nbsp; Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [CSS — Attribute Selector Nedir ?Türleri Nelerdir ?](https://medium.com/@tsafaelmali/css-attribute-selector-nedir-t%C3%BCrleri-nelerdir-ed35fa6bc370?source=rss-ca87a446d740------2)
 - [React — Context API Nedir? Nasıl Kullanılır ?](https://medium.com/@tsafaelmali/react-context-api-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-7000b530ebd0?source=rss-ca87a446d740------2)
