@@ -19,7 +19,7 @@
 
 - 🙇 &nbsp; Currently working Repo -> [Frontend-Mentor-Challenges](https://github.com/SafaElmali/Frontend-Mentor-Challenges)
 
-- ✍️ &nbsp; Currently writing article about -> Resting for now... 😴
+- ✍️ &nbsp; Currently writing article about -> **Resting for now... 😴**
 
 
 ### 📫 &nbsp; You can reach me 
