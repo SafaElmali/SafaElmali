@@ -19,7 +19,7 @@
 
 - 🙇 &nbsp; Currently working Repo ->
 
-- ✍️ &nbsp; Currently writing Article about -> 
+- ✍️ &nbsp; Currently writing article about -> 
 
 
 ### 📫 &nbsp; You can reach me 
