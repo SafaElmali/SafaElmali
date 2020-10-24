@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Safa</h1>
 <h3 align="center">A passionate Frontend Developer 👨‍💻 || Gamer 🎮 || Blogger 📝 </h3>
 
- <h4 align="center">Askerlik sebebiyle hesap, 1 Kasıma kadar pasif kalacaktır 😬 </h4>
+ <h4 align="center">Askerlik sebebiyle hesap, 1 Kasıma kadar pasif kalacaktır(Due to military service, my account will remain passive until November 1.) 😬 </h4>
  <h4 align="center">(Due to military service, my account will remain passive until November 1.) 😬 </h4>
  
 
