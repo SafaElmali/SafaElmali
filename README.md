@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer 👨‍💻 || Gamer 🎮 || Blogger 📝 </h3>
 
  <h4 align="center">Askerlik sebebiyle hesap, 1 Kasıma kadar pasif kalacaktır. 🔫🎖️</h4>
- <h4 align="center">(Due to military service, my account will remain passive until November 1) 🔫🎖️</h4>
+ <h4 align="center">(Due to military service, my account will remain passive until November 1 🔫🎖️) </h4>
  
  
 
