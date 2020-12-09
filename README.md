@@ -1,9 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Safa</h1>
 <h3 align="center">A passionate Frontend Developer 👨‍💻 || Gamer 🎮 || Blogger 📝 </h3>
 
+<!-- 
 <p align="center"> 
 <img height="100" src="https://media2.giphy.com/media/13V60VgE2ED7oc/giphy.gif" />
 </p>
+-->
 
 <div align="center">
 <h3>Spotify Now Playing 🎧</h3>
