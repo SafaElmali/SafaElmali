@@ -16,7 +16,7 @@
 
 - 🌱 &nbsp; I’m currently learning **Styled-Components**
 
-- 📝 &nbsp; I regulary write articles on [Medium](https://medium.com/@tsafaelmali)
+- 📝 &nbsp; I regularly write articles on [Medium](https://medium.com/@tsafaelmali)
 
 - 🤓 &nbsp; Curious to learn Backend Development 💻
 
