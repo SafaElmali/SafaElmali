@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Safa</h1>
-<h3 align="center">A passionate Frontend Developer 👨‍💻 || Gamer 🎮  || Blogger 📝 </h3>
+<h3 align="center">A passionate Frontend Developer 👨‍💻 || Gamer  <a href='https://www.twitch.tv/safaelmali'>
+    <img src="https://img.shields.io/twitch/status/safaelmali">
+  <a/>  || Blogger 📝 </h3>
  
 <!-- 
 <p align="center"> 
