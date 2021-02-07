@@ -18,7 +18,7 @@
 
 </div>
 
-- 🌱 &nbsp; I’m currently learning **Styled-Components**
+- 🌱 &nbsp; I’m currently learning **Storybook**
 
 - 📝 &nbsp; I regularly write articles on [Medium](https://medium.com/@tsafaelmali)
 
@@ -69,6 +69,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"></code>
 <code><img height="30" src="https://i0.wp.com/stickker.net/wp-content/uploads/2018/05/postman.png?fit=610%2C610&ssl=1"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
