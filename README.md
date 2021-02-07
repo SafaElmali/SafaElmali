@@ -37,10 +37,10 @@
 
 ### 📝 &nbsp; Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [React — useContext Hook’unu Kullanarak Dark-Light Mod’ları Nasıl Eklenir?](https://medium.com/@tsafaelmali/react-usecontext-hookunu-kullanarak-dark-light-mod-lar%C4%B1-nas%C4%B1l-eklenir-f8a0c40d4f1a?source=rss-ca87a446d740------2)
 - [Normalize CSS & Reset CSS Nedir ?](https://medium.com/@tsafaelmali/normalize-css-reset-css-nedir-39c013ea4e4a?source=rss-ca87a446d740------2)
 - [CSS — Attribute Selector Nedir ?Türleri Nelerdir ?](https://medium.com/@tsafaelmali/css-attribute-selector-nedir-t%C3%BCrleri-nelerdir-ed35fa6bc370?source=rss-ca87a446d740------2)
 - [React — Context API Nedir? Nasıl Kullanılır ?](https://medium.com/@tsafaelmali/react-context-api-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-7000b530ebd0?source=rss-ca87a446d740------2)
-- [React — Memoization Nedir ? React’ta Nasıl Kullanılır ?](https://medium.com/@tsafaelmali/react-memoization-nedir-reactta-nas%C4%B1l-kullan%C4%B1l%C4%B1r-453035a3630f?source=rss-ca87a446d740------2)
 <!-- BLOG-POST-LIST:END -->
 
 
