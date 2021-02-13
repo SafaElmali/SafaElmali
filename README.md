@@ -26,9 +26,6 @@
 
 - 🙇 &nbsp; Currently working Repo -> [design-challenges](https://github.com/SafaElmali/design-challenges) ||  [my-css-battles-solutions](https://github.com/SafaElmali/my-css-battles-solutions)
 
-- ✍️ &nbsp; Currently writing article about -> **Resting for now... 😴**
-
-
 ### 📫 &nbsp; You can reach me 
 
 [![Linkedin: SafaElmali](https://img.shields.io/badge/-T.Safa%20Elmali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsafaelmali/)](https://www.linkedin.com/in/tsafaelmali/)
