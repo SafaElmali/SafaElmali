@@ -18,7 +18,7 @@
 
 </div>
 
-- 🌱 &nbsp; I’m currently learning **Storybook**
+- 🌱 &nbsp; I’m currently learning **Mocha | Chai **
 
 - 📝 &nbsp; I regularly write articles on [Medium](https://medium.com/@tsafaelmali)
 
