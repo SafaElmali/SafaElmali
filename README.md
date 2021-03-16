@@ -24,7 +24,7 @@
 
 - 🤓 &nbsp; Curious to learn Backend Development 💻
 
-- 🙇 &nbsp; Currently working Repo(s) -> [design-challenges](https://github.com/SafaElmali/design-challenges) ||  [css-battles-solutions](https://github.com/SafaElmali/my-css-battles-solutions)
+- 🙇 &nbsp; Currently working Repo(s) -> [design-challenges](https://github.com/SafaElmali/design-challenges) ||  [css-battles-solutions](https://github.com/SafaElmali/my-css-battles-solutions) || [coding-challenge](https://github.com/SafaElmali/coding-challenges) 
 
 ### 📫 &nbsp; You can reach me 
 
