@@ -34,10 +34,10 @@
 
 ### 📝 &nbsp; Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bugün Ne Öğrendim ? CSS — Box shadow Nedir? Nasıl Kullanılır ?](https://tsafaelmali.medium.com/bug%C3%BCn-ne-%C3%B6%C4%9Frendim-css-box-shadow-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-e8302a772038?source=rss-ca87a446d740------2)
 - [React — useContext Hook’unu Kullanarak Dark-Light Mod’ları Nasıl Eklenir?](https://tsafaelmali.medium.com/react-usecontext-hookunu-kullanarak-dark-light-mod-lar%C4%B1-nas%C4%B1l-eklenir-f8a0c40d4f1a?source=rss-ca87a446d740------2)
 - [Normalize CSS & Reset CSS Nedir ?](https://tsafaelmali.medium.com/normalize-css-reset-css-nedir-39c013ea4e4a?source=rss-ca87a446d740------2)
 - [CSS — Attribute Selector Nedir ?Türleri Nelerdir ?](https://tsafaelmali.medium.com/css-attribute-selector-nedir-t%C3%BCrleri-nelerdir-ed35fa6bc370?source=rss-ca87a446d740------2)
-- [React — Context API Nedir? Nasıl Kullanılır ?](https://tsafaelmali.medium.com/react-context-api-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-7000b530ebd0?source=rss-ca87a446d740------2)
 <!-- BLOG-POST-LIST:END -->
 
 
