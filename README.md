@@ -34,10 +34,10 @@
 
 ### 📝 &nbsp; Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS Battle — Target #2 — Carrom](https://tsafaelmali.medium.com/css-battle-target-2-carrom-4bd1139f5b72?source=rss-ca87a446d740------2)
 - [CSS Battle — Target #1 — Simply Square](https://tsafaelmali.medium.com/css-battle-target-1-simply-square-8bfe1a099130?source=rss-ca87a446d740------2)
 - [Bugün Ne Öğrendim ? CSS — Box shadow Nedir? Nasıl Kullanılır ?](https://tsafaelmali.medium.com/bug%C3%BCn-ne-%C3%B6%C4%9Frendim-css-box-shadow-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-e8302a772038?source=rss-ca87a446d740------2)
 - [React — useContext Hook’unu Kullanarak Dark-Light Mod’ları Nasıl Eklenir?](https://tsafaelmali.medium.com/react-usecontext-hookunu-kullanarak-dark-light-mod-lar%C4%B1-nas%C4%B1l-eklenir-f8a0c40d4f1a?source=rss-ca87a446d740------2)
-- [Normalize CSS & Reset CSS Nedir ?](https://tsafaelmali.medium.com/normalize-css-reset-css-nedir-39c013ea4e4a?source=rss-ca87a446d740------2)
 <!-- BLOG-POST-LIST:END -->
 
 
