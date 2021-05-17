@@ -43,29 +43,29 @@
 
 ### Languages and Tools:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=tr" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
-<a href="https://sass-lang.com/" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code></a>
-<a href="https://vuejs.org/" target="blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code></a>
-<a href="https://reactnative.dev/" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-<a href="https://reactjs.org/" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></a>
-<a href="https://angular.io/" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code></a>
-<a href="https://nodejs.org/en/" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code></a>
-<a href="http://es6-features.org/" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code></a>
-<a href="https://expressjs.com/" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code></a>
-<a href="https://graphql.org/" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code></a>
-<a href="https://git-scm.com/" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></a>
-<a href="https://www.mongodb.com/" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code></a>
-<a href="https://mongoosejs.com/" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code></a>
-<a href="https://about.gitlab.com/" target="_blank"><code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/520px-GitLab_Logo.svg.png"></code></a>
-<a href="https://github.com/" target="_blank">
-<a href="" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code></a>
-<a href="https://swagger.io/" target="_blank"><code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"></code></a>
-<a href="https://www.postman.com/" target="_blank"><code><img height="30" src="https://i0.wp.com/stickker.net/wp-content/uploads/2018/05/postman.png?fit=610%2C610&ssl=1"></code></a>
-<a href="https://styled-components.com/" target="_blank"><code><img height="30" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"></code></a>
-<a href="https://storybook.js.org/" target="_blank"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=tr"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
+<a href="https://sass-lang.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code></a>
+<a href="https://vuejs.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code></a>
+<a href="https://reactnative.dev/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+<a href="https://reactjs.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></a>
+<a href="https://angular.io/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code></a>
+<a href="https://nodejs.org/en/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></a>
+<a href="https://www.typescriptlang.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code></a>
+<a href="http://es6-features.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code></a>
+<a href="https://expressjs.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code></a>
+<a href="https://graphql.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code></a>
+<a href="https://git-scm.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></a>
+<a href="https://www.mongodb.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code></a>
+<a href="https://mongoosejs.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code></a>
+<a href="https://about.gitlab.com/"><code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/520px-GitLab_Logo.svg.png"></code></a>
+<a href="https://github.com/">
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code></a>
+<a href="https://swagger.io/"><code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"></code></a>
+<a href="https://www.postman.com/"><code><img height="30" src="https://i0.wp.com/stickker.net/wp-content/uploads/2018/05/postman.png?fit=610%2C610&ssl=1"></code></a>
+<a href="https://styled-components.com/"><code><img height="30" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"></code></a>
+<a href="https://storybook.js.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code></a>
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
