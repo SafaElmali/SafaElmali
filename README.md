@@ -18,7 +18,7 @@
 
 </div>
 
-- 🌱 &nbsp; I’m currently learning **React Testing Library** | **React-Router-Dom** | **React-Query** | **React-Hook-Form**
+- 🌱 &nbsp; I’m currently learning **React-Testing-Library** | **React-Router-Dom** | **React-Query** | **React-Hook-Form**
 
 - 📝 &nbsp; I regularly write articles on [Medium](https://medium.com/@tsafaelmali)
 
