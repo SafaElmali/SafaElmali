@@ -18,13 +18,13 @@
 
 </div>
 
-- 🌱 &nbsp; I’m currently learning **React Query** | **React Router Dom**
+- 🌱 &nbsp; I’m currently learning **React Testing Library** | **React-Router-Dom** | **React-Query** | **React-Hook-Form**
 
 - 📝 &nbsp; I regularly write articles on [Medium](https://medium.com/@tsafaelmali)
 
 - 🤓 &nbsp; Curious to learn Backend Development 💻
 
-- 🙇 &nbsp; Currently working Repo(s) -> [design-challenges](https://github.com/SafaElmali/design-challenges) ||  [css-battles-solutions](https://github.com/SafaElmali/my-css-battles-solutions) || [coding-challenge](https://github.com/SafaElmali/coding-challenges) 
+- 🙇 &nbsp; Currently working Repo(s) -> [frontend-mentor-challenges](https://github.com/SafaElmali/frontend-mentor-challenges)
 
 ### 📫 &nbsp; You can reach me 
 
