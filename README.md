@@ -34,10 +34,10 @@
 
 ### 📝 &nbsp; Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS Battle — Target #5 — Acid Rain](https://tsafaelmali.medium.com/css-battle-target-5-acid-rain-ff301b84b6a2?source=rss-ca87a446d740------2)
 - [CSS Battle — Target #4 — Ups n Downs](https://tsafaelmali.medium.com/css-battle-target-4-ups-n-downs-df14a3cb02ea?source=rss-ca87a446d740------2)
 - [CSS Battle — Target #3 — Push Button](https://tsafaelmali.medium.com/css-battle-target-3-push-button-562be69d22a3?source=rss-ca87a446d740------2)
 - [CSS Battle — Target #2 — Carrom](https://tsafaelmali.medium.com/css-battle-target-2-carrom-4bd1139f5b72?source=rss-ca87a446d740------2)
-- [CSS Battle — Target #1 — Simply Square](https://tsafaelmali.medium.com/css-battle-target-1-simply-square-8bfe1a099130?source=rss-ca87a446d740------2)
 <!-- BLOG-POST-LIST:END -->
 
 
