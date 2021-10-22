@@ -71,8 +71,6 @@
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ---
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safaelmali&show_icons=true&theme=tokyonight" alt="safaelmali" /></p>
-
 <p align="center">
   <a href='https://findmentor.network/peer/tahsin-safa-elmali'>
     <img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentor-brightgreen">
