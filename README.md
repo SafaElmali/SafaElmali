@@ -11,11 +11,6 @@
    <a href='https://www.twitch.tv/safaelmali'>
     <img src="https://img.shields.io/twitch/status/safaelmali">
   <a/>
-  
-<h3>Spotify Now Playing 🎧</h3>
-
-[![Spotify](https://spotify-now-playing-grvctczyq.vercel.app/api/spotify)](https://open.spotify.com/user/8va6cs1o44tff5ww9m12sh2ao)
-
 </div>
 
 - 🌱 &nbsp; I’m currently learning **React-Testing-Library** | **React-Router-Dom** | **React-Query** | **React-Hook-Form**
