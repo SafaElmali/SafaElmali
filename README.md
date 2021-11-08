@@ -19,7 +19,7 @@
 
 - 🤓 &nbsp; Curious to learn Backend Development 💻
 
-- 🙇 &nbsp; Currently working Repo(s) -> [frontend-mentor-challenges](https://github.com/SafaElmali/frontend-mentor-challenges)
+- 🙇 &nbsp; Currently working Repo(s) -> [audio-player-compound-components](https://github.com/SafaElmali/audio-player-compound-component-hacktoberfest)
 
 ### 📫 &nbsp; You can reach me 
 
