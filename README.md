@@ -19,8 +19,6 @@
 
 - 🤓 &nbsp; Curious to learn Backend Development 💻
 
-- 🙇 &nbsp; Currently working Repo(s) -> [audio-player-compound-components](https://github.com/SafaElmali/audio-player-compound-component-hacktoberfest)
-
 ### 📫 &nbsp; You can reach me 
 
 [![Linkedin: SafaElmali](https://img.shields.io/badge/-T.Safa%20Elmali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsafaelmali/)](https://www.linkedin.com/in/tsafaelmali/)
