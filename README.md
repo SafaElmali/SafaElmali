@@ -27,10 +27,10 @@
 
 ### 📝 &nbsp; Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS — Box Model Nedir?](https://tsafaelmali.medium.com/css-box-model-nedir-8e6ce9f12e8e?source=rss-ca87a446d740------2)
 - [React — React Portal Nedir?](https://tsafaelmali.medium.com/react-react-portal-nedir-46cb5fa9c0cc?source=rss-ca87a446d740------2)
 - [CSS Battle — Target #5 — Acid Rain](https://tsafaelmali.medium.com/css-battle-target-5-acid-rain-ff301b84b6a2?source=rss-ca87a446d740------2)
 - [CSS Battle — Target #4 — Ups n Downs](https://tsafaelmali.medium.com/css-battle-target-4-ups-n-downs-df14a3cb02ea?source=rss-ca87a446d740------2)
-- [CSS Battle — Target #3 — Push Button](https://tsafaelmali.medium.com/css-battle-target-3-push-button-562be69d22a3?source=rss-ca87a446d740------2)
 <!-- BLOG-POST-LIST:END -->
 
 
