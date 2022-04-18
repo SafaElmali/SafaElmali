@@ -33,31 +33,26 @@
 - [CSS Battle — Target #4 — Ups n Downs](https://tsafaelmali.medium.com/css-battle-target-4-ups-n-downs-df14a3cb02ea?source=rss-ca87a446d740------2)
 <!-- BLOG-POST-LIST:END -->
 
+### 🛠 &nbsp;Tech Stack
 
-### Languages and Tools:
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=tr"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
-<a href="https://sass-lang.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code></a>
-<a href="https://vuejs.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></a>
-<a href="https://angular.io/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code></a>
-<a href="https://nodejs.org/en/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></a>
-<a href="https://www.typescriptlang.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code></a>
-<a href="http://es6-features.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code></a>
-<a href="https://expressjs.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code></a>
-<a href="https://graphql.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code></a>
-<a href="https://git-scm.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></a>
-<a href="https://www.mongodb.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code></a>
-<a href="https://mongoosejs.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code></a>
-<a href="https://about.gitlab.com/"><code><img height="30" src="https://avatars.githubusercontent.com/u/22105643?s=200&v=4"></code></a>
-<a href="https://github.com/">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code></a>
-<a href="https://swagger.io/"><code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"></code></a>
-<a href="https://www.postman.com/"><code><img height="30" src="https://i0.wp.com/stickker.net/wp-content/uploads/2018/05/postman.png?fit=610%2C610&ssl=1"></code></a>
-<a href="https://styled-components.com/"><code><img height="30" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"></code></a>
-<a href="https://storybook.js.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code></a>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
+![Storybook](https://img.shields.io/badge/-storybook-05122A?style=flat&logo=storybook)&nbsp;
+![Styled-Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql&logoColor=663399)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Swagger](https://img.shields.io/badge/-swagger-05122A?style=flat&logo=swagger)&nbsp;
+![Postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
