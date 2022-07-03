@@ -27,10 +27,10 @@
 
 ### 📝 &nbsp; Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS — min-content &amp; max-content &amp; fit-content Nedir?](https://tsafaelmali.medium.com/min-content-max-content-fit-content-nedir-9c739dd2eff7?source=rss-ca87a446d740------2)
 - [CSS — Layout Modları Nelerdir? Flow Layout ve Display Özelliği](https://tsafaelmali.medium.com/css-layout-modlar%C4%B1-nelerdir-flow-layout-ve-display-%C3%B6zelli%C4%9Fi-70b9d5382e77?source=rss-ca87a446d740------2)
 - [CSS — Box Model Nedir?](https://tsafaelmali.medium.com/css-box-model-nedir-8e6ce9f12e8e?source=rss-ca87a446d740------2)
 - [React — React Portal Nedir?](https://tsafaelmali.medium.com/react-react-portal-nedir-46cb5fa9c0cc?source=rss-ca87a446d740------2)
-- [CSS Battle — Target #5 — Acid Rain](https://tsafaelmali.medium.com/css-battle-target-5-acid-rain-ff301b84b6a2?source=rss-ca87a446d740------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🛠 &nbsp;Tech Stack
