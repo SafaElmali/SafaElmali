@@ -19,9 +19,7 @@
 
 - 🤓 &nbsp; Curious to learn Backend Development 💻
  
-![](https://hit.yhype.me/github/profile?user_id=43219246)
-<a href="[[https://app.daily.dev/code_a_man](https://app.daily.dev/safaelmali)](https://app.daily.dev/safaelmali)"><img src="https://api.daily.dev/devcards/001254c0bb244adc81048f38295951f5.png?r=iqf" align=right width="300" alt="T. Safa Elmalı's Dev Card"/></a>
-  
+<a href="https://app.daily.dev/safaelmali"><img src="https://api.daily.dev/devcards/001254c0bb244adc81048f38295951f5.png?r=iqf" align=right width="300" alt="T. Safa Elmalı's Dev Card"/></a>
 
 ### 📫 &nbsp; You can reach me 
 
