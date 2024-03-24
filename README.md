@@ -12,8 +12,6 @@
     <img src="https://img.shields.io/twitch/status/safaelmali">
   <a/>
 </div>
-
-- 📝 &nbsp; I regularly write articles on [Medium](https://medium.com/@tsafaelmali)
  
 <a href="https://app.daily.dev/safaelmali"><img src="https://api.daily.dev/devcards/001254c0bb244adc81048f38295951f5.png?r=iqf" align=right width="300" alt="T. Safa Elmalı's Dev Card"/></a>
 
