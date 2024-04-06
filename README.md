@@ -54,7 +54,8 @@
 ![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-05122A?style=flat&logo=amazonapigateway)&nbsp;
 ![Serverless Framework](https://img.shields.io/badge/-Serverless%20Framework-05122A?style=flat&logo=serverless)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQL-05122A?style=flat&logo=graphql)&nbsp;
-![Hasura](https://img.shields.io/badge/-hasura-05122A?style=flat&logo=hasura)&nbsp;
+![Hasura](https://img.shields.io/badge/-Hasura-05122A?style=flat&logo=hasura)&nbsp;
+![Datadog](https://img.shields.io/badge/Datadog-05122A?style=flat&logo=datadog)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Sentry](https://img.shields.io/badge/Sentry-05122A?style=flat&logo=sentry)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
