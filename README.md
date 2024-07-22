@@ -23,10 +23,10 @@
 
 ### 📝 &nbsp; Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hasura — Scheduled Event Nedir?](https://tsafaelmali.medium.com/hasura-zamanlanm%C4%B1%C5%9F-mesaj-nas%C4%B1l-g%C3%B6nderilir-4d46d09fb071?source=rss-ca87a446d740------2)
 - [Hasura Nedir?](https://tsafaelmali.medium.com/hasura-nedir-f5e8dd82070d?source=rss-ca87a446d740------2)
 - [CSS — Box sizing Nedir?](https://tsafaelmali.medium.com/css-box-sizing-nedir-e8d9a29c349e?source=rss-ca87a446d740------2)
 - [CSS — min-content &amp; max-content &amp; fit-content Nedir?](https://tsafaelmali.medium.com/min-content-max-content-fit-content-nedir-9c739dd2eff7?source=rss-ca87a446d740------2)
-- [CSS — Layout Modları Nelerdir? Flow Layout ve Display Özelliği](https://tsafaelmali.medium.com/css-layout-modlar%C4%B1-nelerdir-flow-layout-ve-display-%C3%B6zelli%C4%9Fi-70b9d5382e77?source=rss-ca87a446d740------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🛠 &nbsp;Tech Stack
