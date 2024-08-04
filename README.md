@@ -69,17 +69,6 @@
 ---
 
 <p align="center">
-  <a href='https://findmentor.network/peer/tahsin-safa-elmali'>
-    <img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentor-brightgreen">
-  <a/>
-  <a href='https://findmentor.network/peer/tahsin-safa-elmali'>
-    <img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet">
-  <a/>
-</p>
-
----
-
-<p align="center">
 <a href="https://twitter.com/safaelmali" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 /></a> 
 <a href="https://linkedin.com/in/tsafaelmali" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a> 
 <a target="_blank" href="mailto:tsafaelmali@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height=25/></a>
