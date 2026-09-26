@@ -1,82 +1,93 @@
-<h1 align="center">Hi <img height="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Safa</h1>
-<h3 align="center">A passionate Software Developer 👨‍💻 || Gamer 🎮 || Blogger 📝 </h3>
- 
-<!-- 
-<p align="center"> 
-<img height="100" src="https://media2.giphy.com/media/13V60VgE2ED7oc/giphy.gif" />
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32" alt="👋">, I'm Safa
+</h1>
+
+<p align="center">
+  <b>Software developer from Istanbul</b> · I build with AI 👨‍💻 · Game addict 🎮
 </p>
--->
 
-<div align="center">
-   <a href='https://www.twitch.tv/safaelmali'>
-    <img src="https://img.shields.io/twitch/status/safaelmali">
-  <a/>
-</div>
- 
-<a href="https://app.daily.dev/safaelmali"><img src="https://api.daily.dev/devcards/001254c0bb244adc81048f38295951f5.png?r=iqf" align=right width="300" alt="T. Safa Elmalı's Dev Card"/></a>
+<p align="center">
+  I make things you can open, play, and poke at right in your browser:<br>
+  3D toys, arcade games, and small tools that feel good to use.
+</p>
 
-### 📫 &nbsp; You can reach me 
+<p align="center">
+  <a href="https://safaelmali.com"><img src="https://img.shields.io/badge/safaelmali.com-30363D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/tsafaelmali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+Cg==" alt="LinkedIn"></a>
+  <a href="https://x.com/safaelmali"><img src="https://img.shields.io/badge/X-30363D?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://tsafaelmali.medium.com/"><img src="https://img.shields.io/badge/Medium-30363D?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://dev.to/safaelmali"><img src="https://img.shields.io/badge/DEV-30363D?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV"></a>
+  <a href="https://instagram.com/safaelmali"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:tsafaelmali@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-[![Linkedin: SafaElmali](https://img.shields.io/badge/-T.Safa%20Elmali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsafaelmali/)](https://www.linkedin.com/in/tsafaelmali/)
-[![Twitter: SafaElmali](https://img.shields.io/twitter/url?label=T.Safa%20Elmali&style=social&url=https%3A%2F%2Ftwitter.com%2FSafaElmali)](https://twitter.com/SafaElmali) 
-[![Gmail Badge](https://img.shields.io/badge/-T.Safa%20Elmali-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tsafaelmali@gmail.com)](mailto:tsafaelmali@gmail.com)
+## 🎮 Things I've built
 
-### 📝 &nbsp; Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Doppler — Secrets Management Nedir?](https://tsafaelmali.medium.com/doppler-secrets-management-nedir-9b11a32550f1?source=rss-ca87a446d740------2)
-- [Hasura — Scheduled Event Nedir?](https://tsafaelmali.medium.com/hasura-zamanlanm%C4%B1%C5%9F-mesaj-nas%C4%B1l-g%C3%B6nderilir-4d46d09fb071?source=rss-ca87a446d740------2)
-- [Hasura Nedir?](https://tsafaelmali.medium.com/hasura-nedir-f5e8dd82070d?source=rss-ca87a446d740------2)
-- [CSS — Box sizing Nedir?](https://tsafaelmali.medium.com/css-box-sizing-nedir-e8d9a29c349e?source=rss-ca87a446d740------2)
-<!-- BLOG-POST-LIST:END -->
+<table>
+  <tr>
+    <td width="33%" valign="middle">
+      <a href="https://loficities.com"><img src="assets/lofi-cities.jpg" alt="Lofi Cities: pixel-art night skylines of Paris, Tokyo, New York, London, Rio, and Istanbul"></a>
+    </td>
+    <td colspan="2" valign="middle">
+      <sub>🎧 NEW</sub>
+      <br><b><a href="https://loficities.com">Lofi Cities</a></b>
+      <br>Pixel-art city nights in Paris, Tokyo, New York, London, Rio, and Istanbul, with endless lofi music composed live in your browser.
+      <br><br><a href="https://loficities.com"><img src="https://img.shields.io/badge/%E2%96%B6%20Tune%20in-7C3AED?style=flat-square" alt="Tune in"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://dualsense.studio"><img src="assets/dualsense-studio.jpg" alt="DualSense Studio: a PS5 controller glowing on a dark blue background"></a>
+      <br><b><a href="https://dualsense.studio">DualSense Studio</a></b>
+      <br><sub>Your PS5 controller, in the browser.</sub>
+      <br><br><a href="https://dualsense.studio"><img src="https://img.shields.io/badge/%E2%96%B6%20Try%20it-2563EB?style=flat-square" alt="Try it"></a> <a href="https://github.com/SafaElmali/dualsense-studio"><img src="https://img.shields.io/github/stars/SafaElmali/dualsense-studio?style=flat-square&logo=github&label=Star&color=24292F" alt="GitHub stars"></a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://playjunkmagnet.com"><img src="assets/junk-magnet.jpg" alt="Junk Magnet: a round yellow robot with a magnet pulling scrap through a junkyard"></a>
+      <br><b><a href="https://playjunkmagnet.com">Junk Magnet</a></b>
+      <br><sub>Endless scrapyard survival.</sub>
+      <br><br><a href="https://playjunkmagnet.com"><img src="https://img.shields.io/badge/%E2%96%B6%20Play-DC2626?style=flat-square" alt="Play"></a> <a href="https://www.crazygames.com/game/junk-magnet"><img src="https://img.shields.io/badge/CrazyGames-6842FF?style=flat-square" alt="CrazyGames"></a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://icy-tower-frostbound.netlify.app"><img src="assets/icy-tower-frostbound.jpg" alt="Icy Tower Frostbound: a climber leaping through a frozen cathedral"></a>
+      <br><b><a href="https://icy-tower-frostbound.netlify.app">Icy Tower — Frostbound</a></b>
+      <br><sub>Arcade climber with online races.</sub>
+      <br><br><a href="https://icy-tower-frostbound.netlify.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Play-0891B2?style=flat-square" alt="Play"></a> <a href="https://github.com/SafaElmali/icy-tower-frostbound"><img src="https://img.shields.io/badge/Source-24292F?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://object-lab-3d.netlify.app"><img src="assets/object-lab.jpg" alt="Object Lab: soda cans, a mechanical keyboard, and a watch floating in 3D"></a>
+      <br><b><a href="https://object-lab-3d.netlify.app">Object Lab</a></b>
+      <br><sub>15 scroll-driven 3D stories.</sub>
+      <br><br><a href="https://object-lab-3d.netlify.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Explore-EA580C?style=flat-square" alt="Explore"></a> <a href="https://github.com/SafaElmali/interactive-3d-lab"><img src="https://img.shields.io/badge/Source-24292F?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://crema-barista-studio.netlify.app"><img src="assets/crema.jpg" alt="Crema: milk pouring a heart into a latte"></a>
+      <br><b><a href="https://crema-barista-studio.netlify.app">Crema</a></b>
+      <br><sub>Latte art lessons in 3D.</sub>
+      <br><br><a href="https://crema-barista-studio.netlify.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Learn-A16207?style=flat-square" alt="Learn"></a> <a href="https://github.com/SafaElmali/crema-barista-studio"><img src="https://img.shields.io/badge/Source-24292F?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://duo-view.netlify.app/studio/"><img src="assets/duo-view.jpg" alt="Duo View: a website previewed on a foldable phone"></a>
+      <br><b><a href="https://duo-view.netlify.app/studio/">Duo View</a></b>
+      <br><sub>Preview sites on a foldable phone.</sub>
+      <br><br><a href="https://duo-view.netlify.app/studio/"><img src="https://img.shields.io/badge/%E2%96%B6%20Open-3B82F6?style=flat-square" alt="Open"></a> <a href="https://github.com/SafaElmali/duo-view"><img src="https://img.shields.io/badge/Source-24292F?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
+    </td>
+  </tr>
+</table>
 
-### 🛠 &nbsp;Tech Stack
+<p align="center"><sub>…and more experiments in my <a href="https://github.com/SafaElmali?tab=repositories">repositories</a>.</sub></p>
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)&nbsp;
-![Styled-Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)&nbsp;
-![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Amazon](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
-![AWS CloudWatch](https://img.shields.io/badge/AWS%20Cloudwatch-05122A?style=flat&logo=amazoncloudwatch)&nbsp;
-![AWS S3](https://img.shields.io/badge/AWS%20S3-05122A?style=flat&logo=amazons3)&nbsp;
-![AWS RDS](https://img.shields.io/badge/AWS%20RDS-05122A?style=flat&logo=amazonrds)&nbsp;
-![AWS Lambda](https://img.shields.io/badge/AWS%20RDS-05122A?style=flat&logo=awslambda)&nbsp;
-![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-05122A?style=flat&logo=amazonapigateway)&nbsp;
-![Serverless Framework](https://img.shields.io/badge/-Serverless%20Framework-05122A?style=flat&logo=serverless)&nbsp;
-![GraphQL](https://img.shields.io/badge/GraphQL-05122A?style=flat&logo=graphql)&nbsp;
-![Hasura](https://img.shields.io/badge/-Hasura-05122A?style=flat&logo=hasura)&nbsp;
-![Datadog](https://img.shields.io/badge/Datadog-05122A?style=flat&logo=datadog)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Sentry](https://img.shields.io/badge/Sentry-05122A?style=flat&logo=sentry)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)&nbsp;
-![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint)&nbsp;
-![Shadcn](https://img.shields.io/badge/-Shadcn-05122A?style=flat&logo=shadcnui)&nbsp;
-![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
+## 🛠 Tools of the trade
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,threejs,tailwind,vite,nodejs,graphql,aws,docker,swift,netlify,cloudflare,git" alt="TypeScript, JavaScript, React, Next.js, Three.js, Tailwind CSS, Vite, Node.js, GraphQL, AWS, Docker, Swift, Netlify, Cloudflare, Git">
+</p>
 
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ---
 
 <p align="center">
-<a href="https://twitter.com/safaelmali" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 /></a> 
-<a href="https://linkedin.com/in/tsafaelmali" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a> 
-<a target="_blank" href="mailto:tsafaelmali@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height=25/></a>
-<a href="https://instagram.com/safaelmali" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25 /></a> 
-<a href="https://medium.com/@tsafaelmali" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-<a href="https://dev.to/safaelmali" target="blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25 /></a>
-<a href="https://safaelmali.com/" target="blank"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://safaelmali.com/" height=25 /></a>
+  Enjoying something I made? It helps me keep building free tools and experiments.<br><br>
+  <a href="https://buymeacoffee.com/safaelmali"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
 </p>
