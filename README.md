@@ -16,8 +16,6 @@
   <a href="https://www.linkedin.com/in/tsafaelmali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+Cg==" alt="LinkedIn"></a>
   <a href="https://x.com/safaelmali"><img src="https://img.shields.io/badge/X-30363D?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://tsafaelmali.medium.com/"><img src="https://img.shields.io/badge/Medium-30363D?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://dev.to/safaelmali"><img src="https://img.shields.io/badge/DEV-30363D?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV"></a>
-  <a href="https://instagram.com/safaelmali"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:tsafaelmali@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -78,16 +76,3 @@
 </table>
 
 <p align="center"><sub>…and more experiments in my <a href="https://github.com/SafaElmali?tab=repositories">repositories</a>.</sub></p>
-
-## 🛠 Tools of the trade
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,threejs,tailwind,vite,nodejs,graphql,aws,docker,swift,netlify,cloudflare,git" alt="TypeScript, JavaScript, React, Next.js, Three.js, Tailwind CSS, Vite, Node.js, GraphQL, AWS, Docker, Swift, Netlify, Cloudflare, Git">
-</p>
-
----
-
-<p align="center">
-  Enjoying something I made? It helps me keep building free tools and experiments.<br><br>
-  <a href="https://buymeacoffee.com/safaelmali"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
-</p>
