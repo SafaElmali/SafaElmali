@@ -24,6 +24,17 @@
 <table>
   <tr>
     <td width="33%" valign="middle">
+      <a href="https://play-pixelangelo.pages.dev"><img src="assets/pixelangelo.jpg" alt="Pixelangelo: The Great Wave off Kanagawa coming into focus from a handful of pixels"></a>
+    </td>
+    <td colspan="2" valign="middle">
+      <sub>🖼️ NEW</sub>
+      <br><b><a href="https://play-pixelangelo.pages.dev">Pixelangelo</a></b>
+      <br>A daily word game: a famous painting starts as a handful of pixels, and every miss sharpens it. Find the word in six guesses, or race your friends to it.
+      <br><br><a href="https://play-pixelangelo.pages.dev"><img src="https://img.shields.io/badge/%E2%96%B6%20Play%20the%20daily-15803D?style=flat-square" alt="Play the daily"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="middle">
       <a href="https://loficities.com"><img src="assets/lofi-cities.jpg" alt="Lofi Cities: pixel-art night skylines of Paris, Tokyo, New York, London, Rio, and Istanbul"></a>
     </td>
     <td colspan="2" valign="middle">
