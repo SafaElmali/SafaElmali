@@ -49,7 +49,7 @@
       <a href="https://playjunkmagnet.com"><img src="assets/junk-magnet.jpg" alt="Junk Magnet: a round yellow robot with a magnet pulling scrap through a junkyard"></a>
       <br><b><a href="https://playjunkmagnet.com">Junk Magnet</a></b>
       <br><sub>Endless scrapyard survival.</sub>
-      <br><br><a href="https://playjunkmagnet.com"><img src="https://img.shields.io/badge/%E2%96%B6%20Play-DC2626?style=flat-square" alt="Play">
+      <br><br><a href="https://playjunkmagnet.com"><img src="https://img.shields.io/badge/%E2%96%B6%20Play-DC2626?style=flat-square" alt="Play"></a> <a href="https://github.com/SafaElmali/junk-magnet"><img src="https://img.shields.io/badge/Source-24292F?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
     </td>
     <td colspan="2" width="33%" valign="top">
       <a href="https://icy-tower-frostbound.netlify.app"><img src="assets/icy-tower-frostbound.jpg" alt="Icy Tower Frostbound: a climber leaping through a frozen cathedral"></a>
