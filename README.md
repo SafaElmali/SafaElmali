@@ -23,35 +23,41 @@
 
 <table>
   <tr>
-    <td colspan="3" width="50%" valign="top">
+    <td colspan="2" width="50%" valign="top">
       <a href="https://loficities.com"><img src="assets/lofi-cities.jpg" alt="Lofi Cities: pixel-art night skylines of Paris, Tokyo, New York, London, Rio, and Istanbul"></a>
       <br><sub>🎧 NEW</sub>
       <br><b><a href="https://loficities.com">Lofi Cities</a></b>
       <br>Pixel-art city nights in Paris, Tokyo, New York, London, Rio, and Istanbul, with endless lofi music composed live in your browser.
       <br><br><a href="https://loficities.com"><img src="https://img.shields.io/badge/%E2%96%B6%20Tune%20in-7C3AED?style=flat-square" alt="Tune in"></a>
     </td>
-    <td colspan="3" width="50%" valign="top">
-      <a href="https://pixelangelo.dev"><img src="assets/pixelangelo.jpg" alt="Pixelangelo: The Great Wave off Kanagawa coming into focus from a handful of pixels"></a>
-      <br><sub>🖼️ NEW</sub>
-      <br><b><a href="https://play-pixelangelo.pages.dev">Pixelangelo</a></b>
-      <br>A daily word game: a famous painting starts as a handful of pixels, and every miss sharpens it. Find the word in six guesses, or race your friends to it.
-      <br><br><a href="https://pixelangelo.dev"><img src="https://img.shields.io/badge/%E2%96%B6%20Play%20the%20daily-15803D?style=flat-square" alt="Play the daily"></a>
+    <td colspan="2" width="50%" valign="top">
+      <a href="https://buddylist.dev"><img src="assets/buddylist.jpg" alt="buddylist: an MSN Messenger-style buddy list and conversation window with Claude and Codex as contacts"></a>
+      <br><sub>💬 NEW</sub>
+      <br><b><a href="https://buddylist.dev">buddylist</a></b>
+      <br>Chat with Claude Code, Codex, Gemini, and OpenCode in an MSN Messenger-style Mac app. Every buddy is a real agent session that runs commands and edits your files.
+      <br><br><a href="https://buddylist.dev"><img src="https://img.shields.io/badge/%E2%96%BC%20Download%20for%20Mac-1D4ED8?style=flat-square" alt="Download for Mac"></a> <a href="https://github.com/SafaElmali/buddylist"><img src="https://img.shields.io/github/stars/SafaElmali/buddylist?style=flat-square&logo=github&label=Star&color=24292F" alt="GitHub stars"></a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" width="33%" valign="top">
+    <td width="25%" valign="top">
+      <a href="https://pixelangelo.dev"><img src="assets/pixelangelo.jpg" alt="Pixelangelo: The Great Wave off Kanagawa coming into focus from a handful of pixels"></a>
+      <br><b><a href="https://play-pixelangelo.pages.dev">Pixelangelo</a></b>
+      <br><sub>A daily painting word game.</sub>
+      <br><br><a href="https://pixelangelo.dev"><img src="https://img.shields.io/badge/%E2%96%B6%20Play-15803D?style=flat-square" alt="Play"></a>
+    </td>
+    <td width="25%" valign="top">
       <a href="https://dualsense.studio"><img src="assets/dualsense-studio.jpg" alt="DualSense Studio: a PS5 controller glowing on a dark blue background"></a>
       <br><b><a href="https://dualsense.studio">DualSense Studio</a></b>
       <br><sub>Your PS5 controller, in the browser.</sub>
       <br><br><a href="https://dualsense.studio"><img src="https://img.shields.io/badge/%E2%96%B6%20Try%20it-2563EB?style=flat-square" alt="Try it"></a> <a href="https://github.com/SafaElmali/dualsense-studio"><img src="https://img.shields.io/github/stars/SafaElmali/dualsense-studio?style=flat-square&logo=github&label=Star&color=24292F" alt="GitHub stars"></a>
     </td>
-    <td colspan="2" width="33%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://playjunkmagnet.com"><img src="assets/junk-magnet.jpg" alt="Junk Magnet: a round yellow robot with a magnet pulling scrap through a junkyard"></a>
       <br><b><a href="https://playjunkmagnet.com">Junk Magnet</a></b>
       <br><sub>Endless scrapyard survival.</sub>
       <br><br><a href="https://playjunkmagnet.com"><img src="https://img.shields.io/badge/%E2%96%B6%20Play-DC2626?style=flat-square" alt="Play"></a> <a href="https://github.com/SafaElmali/junk-magnet"><img src="https://img.shields.io/badge/Source-24292F?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
     </td>
-    <td colspan="2" width="33%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://icy-tower-frostbound.netlify.app"><img src="assets/icy-tower-frostbound.jpg" alt="Icy Tower Frostbound: a climber leaping through a frozen cathedral"></a>
       <br><b><a href="https://icy-tower-frostbound.netlify.app">Icy Tower — Frostbound</a></b>
       <br><sub>Arcade climber with online races.</sub>
@@ -59,25 +65,27 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" width="33%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://object-lab-3d.netlify.app"><img src="assets/object-lab.jpg" alt="Object Lab: soda cans, a mechanical keyboard, and a watch floating in 3D"></a>
       <br><b><a href="https://object-lab-3d.netlify.app">Object Lab</a></b>
       <br><sub>15 scroll-driven 3D stories.</sub>
       <br><br><a href="https://object-lab-3d.netlify.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Explore-EA580C?style=flat-square" alt="Explore"></a> <a href="https://github.com/SafaElmali/interactive-3d-lab"><img src="https://img.shields.io/badge/Source-24292F?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
     </td>
-    <td colspan="2" width="33%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://crema-barista-studio.netlify.app"><img src="assets/crema.jpg" alt="Crema: milk pouring a heart into a latte"></a>
       <br><b><a href="https://crema-barista-studio.netlify.app">Crema</a></b>
       <br><sub>Latte art lessons in 3D.</sub>
       <br><br><a href="https://crema-barista-studio.netlify.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Learn-A16207?style=flat-square" alt="Learn"></a> <a href="https://github.com/SafaElmali/crema-barista-studio"><img src="https://img.shields.io/badge/Source-24292F?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
     </td>
-    <td colspan="2" width="33%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://duo-view.netlify.app/studio/"><img src="assets/duo-view.jpg" alt="Duo View: a website previewed on a foldable phone"></a>
       <br><b><a href="https://duo-view.netlify.app/studio/">Duo View</a></b>
       <br><sub>Preview sites on a foldable phone.</sub>
       <br><br><a href="https://duo-view.netlify.app/studio/"><img src="https://img.shields.io/badge/%E2%96%B6%20Open-3B82F6?style=flat-square" alt="Open"></a> <a href="https://github.com/SafaElmali/duo-view"><img src="https://img.shields.io/badge/Source-24292F?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
     </td>
+    <td width="25%" valign="middle" align="center">
+      <a href="https://github.com/SafaElmali?tab=repositories"><b>…and more experiments</b></a>
+      <br><sub>in my repositories</sub>
+    </td>
   </tr>
 </table>
-
-<p align="center"><sub>…and more experiments in my <a href="https://github.com/SafaElmali?tab=repositories">repositories</a>.</sub></p>
